@@ -1,5 +1,7 @@
 package xyz.gyanl.myapplication;
 
+import android.content.Context;
+import android.database.sqlite.SQLiteDatabase;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -17,6 +19,12 @@ public class AddClass extends AppCompatActivity {
     String[] nouns;// = getResources().getStringArray(R.array.nouns);
     //String[] nouns; = (String) findViewById(R.array.n)
     String[] adje; //= getResources().getStringArray(R.array.adjec);
+    //database stuff
+    private Context mContext;
+    private SQLiteDatabase mDatabase;
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

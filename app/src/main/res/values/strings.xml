@@ -18,6 +18,7 @@
     <string name="add_string">Add String</string>
     <string name="find_string">Find String</string>
     <string name="delete_string">Delete String</string>
+    <string name="title_activity_database">DatabaseActivity</string>
 
 
 </resources>
