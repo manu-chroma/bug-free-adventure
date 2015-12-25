@@ -1,2 +1,5 @@
 # bug-free-adventure
-Attendance app for college life
+Random Android Adventure to create rad Band names for future's Raddest Bandzzz. 
+Cheers to life.
+
+
