@@ -15,4 +15,9 @@
         <item>concave</item>
     </string-array>
     <string name="yolo">yolo</string>
+    <string name="add_string">Add String</string>
+    <string name="find_string">Find String</string>
+    <string name="delete_string">Delete String</string>
+
+
 </resources>
