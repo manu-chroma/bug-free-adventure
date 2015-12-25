@@ -3,4 +3,16 @@
     <string name="action_settings">Settings</string>
     <string name="add_class_head">Add Class </string>
     <string name="title_activity_add_class">Add Class</string>
+    <string-array name="nouns">
+        <item>gyan</item>
+        <item>manu</item>
+        <item>neeeel</item>
+    </string-array>
+    <string-array name="adjec">
+        <item>blue</item>
+        <item>flat</item>
+        <item>fat</item>
+        <item>concave</item>
+    </string-array>
+    <string name="yolo">yolo</string>
 </resources>
