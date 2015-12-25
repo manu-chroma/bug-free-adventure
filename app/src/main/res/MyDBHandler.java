@@ -74,6 +74,7 @@ public class MyDBHandler extends SQLiteOpenHelper {
         return product;
     }
 
+
     public boolean deleteProduct(String productname) {
 
         boolean result = false;
