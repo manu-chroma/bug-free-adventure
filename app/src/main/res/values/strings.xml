@@ -3,4 +3,8 @@
     <string name="action_settings">Settings</string>
     <string name="add_class_head">Add Class </string>
     <string name="title_activity_add_class">Add Class</string>
+    <string name="add_string">Add String</string>
+    <string name="find_string">Find String</string>
+    <string name="delete_string">Delete String</string>
+
 </resources>
