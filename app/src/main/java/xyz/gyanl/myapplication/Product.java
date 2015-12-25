@@ -1,7 +1,7 @@
 /**
  * Created by pgn on 25/12/15.
  */
-package xyz.gyanl.database;
+package xyz.gyanl.myapplication;
 
     public class Product {
 
